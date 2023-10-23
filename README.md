@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/marriamm-96/marriamm-96.github.io)
-- Live Site URL: [Add live site URL here](https://marriamm-96.github.io/)
+- Solution URL: (https://github.com/marriamm-96/marriamm-96.github.io)
+- Live Site URL: (https://marriamm-96.github.io/)
 
 ## My process
 
